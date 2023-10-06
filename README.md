@@ -20,13 +20,15 @@ some related work about traffic and large language model
 
 4. 
 
-5. [扩散器：具有长序列多跳注意力扩散的高效变压器]()
+
 
 ## Efficient Transformers
 
 1. [Segmented Recurrent Transformer: An Efficient Sequence-to-Sequence Model](https://arxiv.org/abs/2305.16340)
 
 2. [Block-State Transformers](https://arxiv.org/pdf/2306.09539.pdf)
+
+3. [扩散器：具有长序列多跳注意力扩散的高效变压器](https://ojs.aaai.org/index.php/AAAI/article/view/26502)
 
 ## other ref
 
