@@ -5,7 +5,9 @@ some related work about traffic and large language model
 ## ref
 1. [Transformer 是 RNN：具有线性注意力的快速自回归 Transformer](https://proceedings.mlr.press/v119/katharopoulos20a.html)
 
-2. []
+内容很好，略。
+
+3. [扩散器：具有长序列多跳注意力扩散的高效变压器]()
 
 
 
