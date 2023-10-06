@@ -26,6 +26,7 @@ some related work about traffic and large language model
 
 1. [Segmented Recurrent Transformer: An Efficient Sequence-to-Sequence Model](https://arxiv.org/abs/2305.16340)
 
+2. [Block-State Transformers](https://arxiv.org/pdf/2306.09539.pdf)
 
 ## other ref
 
