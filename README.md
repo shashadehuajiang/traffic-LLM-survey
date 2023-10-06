@@ -14,7 +14,7 @@ some related work about traffic and large language model
 
 较全的一个survey
 
-3. 
+3. [On The Computational Complexity of Self-Attention](https://proceedings.mlr.press/v201/duman-keles23a.html)
 
 4. [扩散器：具有长序列多跳注意力扩散的高效变压器]()
 
