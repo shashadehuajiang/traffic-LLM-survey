@@ -16,7 +16,11 @@ some related work about traffic and large language model
 
 3. [On The Computational Complexity of Self-Attention](https://proceedings.mlr.press/v201/duman-keles23a.html)
 
-4. [扩散器：具有长序列多跳注意力扩散的高效变压器]()
+结论：在强指数时间假设下，在最坏情况下，这里可能存在一种基本的“没有免费午餐”现象：似乎不太可能获得自注意力的可证明的次二次算法，同时对于所有输入也是可证明的近似准确的算法。
+
+4. 
+
+5. [扩散器：具有长序列多跳注意力扩散的高效变压器]()
 
 ## Efficient Transformers
 
