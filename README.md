@@ -5,7 +5,7 @@ some related work about traffic and large language model
 
 
 
-## ref
+## ref (useful)
 1. [Transformer 是 RNN：具有线性注意力的快速自回归 Transformer](https://proceedings.mlr.press/v119/katharopoulos20a.html)
 
 内容很好，略。
@@ -27,5 +27,6 @@ some related work about traffic and large language model
 1. []
 
 
+## other ref
 
-
+1. [A review on the attention mechanism of deep learning](https://www.sciencedirect.com/science/article/pii/S092523122100477X)
