@@ -24,7 +24,7 @@ some related work about traffic and large language model
 
 ## Efficient Transformers
 
-1. []
+1. [Segmented Recurrent Transformer: An Efficient Sequence-to-Sequence Model](https://arxiv.org/abs/2305.16340)
 
 
 ## other ref
