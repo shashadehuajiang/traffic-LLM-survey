@@ -28,6 +28,22 @@ some related work about traffic and large language model
 
 2. [BFCN: A Novel Classification Method of Encrypted Traffic Based on BERT and CNN](https://www.mdpi.com/2079-9292/12/3/516)
 
+3. [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674)
+
+4. [M3F: A novel multi-session and multi-protocol based malware traffic fingerprinting](https://www.sciencedirect.com/science/article/abs/pii/S1389128623001688)
+
+5. [TSFN: A Novel Malicious Traffic Classification Method Using BERT and LSTM](https://www.mdpi.com/1099-4300/25/5/821)
+
+6. [I^2 RNN: An Incremental and Interpretable Recurrent Neural Network for Encrypted Traffic Classification](https://ieeexplore.ieee.org/abstract/document/10056861)
+
+7. [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://arxiv.org/abs/2309.04798)
+
+8. [FusionTC: Encrypted App Traffic Classification Using Decision-Level Multimodal Fusion Learning of Flow Sequence](https://www.hindawi.com/journals/wcmc/2023/9118153/)
+
+9. [FA-Net: More Accurate Encrypted Network Traffic Classification Based on Burst with Self-Attention](https://ieeexplore.ieee.org/abstract/document/10191615)
+
+10. [NetGPT: Generative Pretrained Transformer for Network Traffic](https://arxiv.org/abs/2304.09513)
+
 
 
 ## Efficient Transformers
