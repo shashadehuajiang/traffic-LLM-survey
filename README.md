@@ -18,7 +18,7 @@ some related work about traffic and large language model
 
 结论：在强指数时间假设下，在最坏情况下，这里可能存在一种基本的“没有免费午餐”现象：似乎不太可能获得自注意力的可证明的次二次算法，同时对于所有输入也是可证明的近似准确的算法。
 
-4. 
+4. [Training Vision Transformers with Only 2040 Images](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_13)
 
 
 
