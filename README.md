@@ -48,6 +48,8 @@ some related work about traffic and large language model
 
 12. [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://dl.acm.org/doi/abs/10.1145/3603165.3607437)
 
+13. [Transformer-Based Device-Type Identification in Heterogeneous IoT Traffic](https://ieeexplore.ieee.org/abstract/document/9951051)
+
 
 
 ## Efficient Transformers
