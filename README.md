@@ -44,9 +44,15 @@ some related work about traffic and large language model
 
 6. [I^2 RNN: An Incremental and Interpretable Recurrent Neural Network for Encrypted Traffic Classification](https://ieeexplore.ieee.org/abstract/document/10056861)
 
+略
+
 7. [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://arxiv.org/abs/2309.04798)
 
+略
+
 8. [FusionTC: Encrypted App Traffic Classification Using Decision-Level Multimodal Fusion Learning of Flow Sequence](https://www.hindawi.com/journals/wcmc/2023/9118153/)
+
+略
 
 9. [FA-Net: More Accurate Encrypted Network Traffic Classification Based on Burst with Self-Attention](https://ieeexplore.ieee.org/abstract/document/10191615)
 
