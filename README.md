@@ -32,6 +32,8 @@ some related work about traffic and large language model
 
 3. [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674)
 
+![123](./figs/Yet%20Another.PNG)
+
 4. [M3F: A novel multi-session and multi-protocol based malware traffic fingerprinting](https://www.sciencedirect.com/science/article/abs/pii/S1389128623001688)
 
 5. [TSFN: A Novel Malicious Traffic Classification Method Using BERT and LSTM](https://www.mdpi.com/1099-4300/25/5/821)
