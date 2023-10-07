@@ -50,6 +50,8 @@ some related work about traffic and large language model
 
 13. [Transformer-Based Device-Type Identification in Heterogeneous IoT Traffic](https://ieeexplore.ieee.org/abstract/document/9951051)
 
+14. [FastTraffic: A lightweight method for encrypted traffic fast classification](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004103)
+
 
 
 ## Efficient Transformers
