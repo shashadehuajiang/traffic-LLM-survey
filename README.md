@@ -40,6 +40,8 @@ some related work about traffic and large language model
 
 5. [TSFN: A Novel Malicious Traffic Classification Method Using BERT and LSTM](https://www.mdpi.com/1099-4300/25/5/821)
 
+数据包level bert + 序列的LSTM特征 和 BFCN同一个作者。
+
 6. [I^2 RNN: An Incremental and Interpretable Recurrent Neural Network for Encrypted Traffic Classification](https://ieeexplore.ieee.org/abstract/document/10056861)
 
 7. [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://arxiv.org/abs/2309.04798)
