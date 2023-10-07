@@ -60,6 +60,8 @@ some related work about traffic and large language model
 
 10. [NetGPT: Generative Pretrained Transformer for Network Traffic](https://arxiv.org/abs/2304.09513)
 
+3个数据包的bert
+
 11. [Spatial-Temporal Feature with Dual-Attention Mechanism for Encrypted Malicious Traffic Detection](https://www.hindawi.com/journals/scn/2023/7117863/)
 
 12. [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://dl.acm.org/doi/abs/10.1145/3603165.3607437)
