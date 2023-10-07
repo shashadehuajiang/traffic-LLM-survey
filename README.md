@@ -28,6 +28,8 @@ some related work about traffic and large language model
 
 2. [BFCN: A Novel Classification Method of Encrypted Traffic Based on BERT and CNN](https://www.mdpi.com/2079-9292/12/3/516)
 
+数据包level bert + 序列的CNN特征
+
 3. [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674)
 
 4. [M3F: A novel multi-session and multi-protocol based malware traffic fingerprinting](https://www.sciencedirect.com/science/article/abs/pii/S1389128623001688)
