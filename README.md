@@ -56,6 +56,8 @@ some related work about traffic and large language model
 
 9. [FA-Net: More Accurate Encrypted Network Traffic Classification Based on Burst with Self-Attention](https://ieeexplore.ieee.org/abstract/document/10191615)
 
+一眼看上去有点怪的模型
+
 10. [NetGPT: Generative Pretrained Transformer for Network Traffic](https://arxiv.org/abs/2304.09513)
 
 11. [Spatial-Temporal Feature with Dual-Attention Mechanism for Encrypted Malicious Traffic Detection](https://www.hindawi.com/journals/scn/2023/7117863/)
