@@ -68,6 +68,8 @@ cnn+gru
 
 12. [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://dl.acm.org/doi/abs/10.1145/3603165.3607437)
 
+2页短文？没看懂
+
 13. [Transformer-Based Device-Type Identification in Heterogeneous IoT Traffic](https://ieeexplore.ieee.org/abstract/document/9951051)
 
 14. [FastTraffic: A lightweight method for encrypted traffic fast classification](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004103)
