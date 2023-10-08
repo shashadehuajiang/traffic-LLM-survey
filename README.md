@@ -76,7 +76,7 @@ transformer + 一些trick做分类
 
 14. [FastTraffic: A lightweight method for encrypted traffic fast classification](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004103)
 
-
+略
 
 ## Efficient Transformers
 
