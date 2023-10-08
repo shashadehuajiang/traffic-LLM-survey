@@ -72,6 +72,8 @@ cnn+gru
 
 13. [Transformer-Based Device-Type Identification in Heterogeneous IoT Traffic](https://ieeexplore.ieee.org/abstract/document/9951051)
 
+transformer + 一些trick做分类
+
 14. [FastTraffic: A lightweight method for encrypted traffic fast classification](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004103)
 
 
