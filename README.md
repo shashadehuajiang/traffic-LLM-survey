@@ -88,7 +88,7 @@ transformer + 一些trick做分类
 
 利用GAN生成对抗性flow，但是生成的是特征，不是flow。缺了一半
 
-3. 
+3. [用于物联网流量生成的知识增强 GAN](https://dl.acm.org/doi/abs/10.1145/3485447.3511976)
 
 
 
