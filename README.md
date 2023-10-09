@@ -120,7 +120,7 @@ GAN+差分隐私+flow特征
 
 WGAN + 流特征
 
-11. 
+11. [Generative Adversarial Networks (GANs): A Survey on Network Traffic Generation](https://wrap.warwick.ac.uk/165738/)
 
 
 
