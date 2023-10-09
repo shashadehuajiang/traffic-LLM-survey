@@ -106,6 +106,8 @@ GAN + packet
 
 7. [DBWE-Corbat：使用动态词嵌入和网络范围对比学习生成后台网络流量](https://www.sciencedirect.com/science/article/pii/S0167404823001128)
 
+数据包-->ip+port
+
 8. [Design and Implementation of Traffic Generation Model and Spectrum Requirement Calculator for Private 5G Network](https://ieeexplore.ieee.org/abstract/document/9703352)
 
 9. 
