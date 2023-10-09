@@ -126,6 +126,10 @@ WGAN + 流特征
 
 12. [SyNIG: Synthetic Network Traffic Generation through Time Series Imaging](https://ieeexplore.ieee.org/abstract/document/10223392)
 
+使用格拉姆角场(GAF)将时间序列数据转换为图像
+
+13. 
+
 
 
 ## Efficient Transformers
