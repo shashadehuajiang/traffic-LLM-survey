@@ -122,6 +122,10 @@ WGAN + 流特征
 
 11. [Generative Adversarial Networks (GANs): A Survey on Network Traffic Generation](https://wrap.warwick.ac.uk/165738/)
 
+一个比较全的survey
+
+12. 
+
 
 
 ## Efficient Transformers
