@@ -124,7 +124,7 @@ WGAN + 流特征
 
 一个比较全的survey
 
-12. [SyNIG: Synthetic Network Traffic Generation through Time Series Imaging]([https://dl.acm.org/doi/abs/10.1145/3143361.3143393](https://ieeexplore.ieee.org/abstract/document/10223392))
+12. [SyNIG: Synthetic Network Traffic Generation through Time Series Imaging](https://ieeexplore.ieee.org/abstract/document/10223392)
 
 
 
