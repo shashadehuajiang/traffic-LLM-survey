@@ -108,6 +108,11 @@ GAN+flow特征的生成
 
 3. [扩散器：具有长序列多跳注意力扩散的高效变压器](https://ojs.aaai.org/index.php/AAAI/article/view/26502)
 
-## other ref
+
+## other ref (network related)
+
+1. [Datasets are not enough: Challenges in labeling network traffic](https://www.sciencedirect.com/science/article/abs/pii/S0167404822002048)
+
+## other ref (deep learning related)
 
 1. [A review on the attention mechanism of deep learning](https://www.sciencedirect.com/science/article/pii/S092523122100477X)
