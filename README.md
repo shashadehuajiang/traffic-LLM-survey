@@ -92,7 +92,11 @@ transformer + 一些trick做分类
 
 GAN+LSTM+知识图 生成 flow的时间序列
 
-4. 
+4. [Flow-based network traffic generation using generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S0167404818308393)
+
+GAN+flow特征的生成
+
+5. 
 
 
 
