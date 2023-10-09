@@ -78,6 +78,11 @@ transformer + 一些trick做分类
 
 略
 
+## network traffic generation
+
+1. [Network Traffic Generation: A Survey and Methodology](https://dl.acm.org/doi/abs/10.1145/3488375)
+
+
 ## Efficient Transformers
 
 1. [Segmented Recurrent Transformer: An Efficient Sequence-to-Sequence Model](https://arxiv.org/abs/2305.16340)
