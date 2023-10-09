@@ -84,7 +84,11 @@ transformer + 一些trick做分类
 
 分析了92个流量生成器工具
 
-2. 
+2. [Generating practical adversarial network traffic flows using NIDSGAN](https://arxiv.org/abs/2203.06694)
+
+利用GAN生成对抗性flow
+
+3. 
 
 
 
