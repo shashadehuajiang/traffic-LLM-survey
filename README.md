@@ -124,7 +124,7 @@ WGAN + 流特征
 
 一个比较全的survey
 
-12. 
+12. [ZipNet-GAN: Inferring finegrained mobile traffic patterns via a generative adversarial neural network](https://dl.acm.org/doi/abs/10.1145/3143361.3143393)
 
 
 
