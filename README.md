@@ -86,7 +86,7 @@ transformer + 一些trick做分类
 
 2. [Generating practical adversarial network traffic flows using NIDSGAN](https://arxiv.org/abs/2203.06694)
 
-利用GAN生成对抗性flow
+利用GAN生成对抗性flow，但是生成的是特征，不是flow。缺了一半
 
 3. 
 
