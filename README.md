@@ -116,7 +116,11 @@ GAN学习流量的时间--字节数矩阵
 
 GAN+差分隐私+flow特征
 
-10. 
+10. [FlowGAN - Synthetic Network Flow Generation using Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9724556)
+
+WGAN + 流特征
+
+11. 
 
 
 
