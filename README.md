@@ -100,7 +100,11 @@ GAN+flow特征的生成
 
 GAN+ packet/flow的特征生成
 
-6. 
+6. [PAC-GAN: Packet Generation of Network Traffic using Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8936224)
+
+GAN + packet
+
+7. 
 
 
 
