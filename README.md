@@ -112,7 +112,11 @@ GAN + packet
 
 GAN学习流量的时间--字节数矩阵
 
-9. 
+9. [DPNeT：具有生成对抗网络的差分专用网络流量合成](https://link.springer.com/chapter/10.1007/978-3-030-81242-3_1)
+
+GAN+差分隐私+flow特征
+
+10. 
 
 
 
