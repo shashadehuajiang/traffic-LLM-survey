@@ -110,6 +110,8 @@ GAN + packet
 
 8. [Design and Implementation of Traffic Generation Model and Spectrum Requirement Calculator for Private 5G Network](https://ieeexplore.ieee.org/abstract/document/9703352)
 
+GAN学习流量的时间--字节数矩阵
+
 9. 
 
 
