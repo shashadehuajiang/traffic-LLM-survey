@@ -90,6 +90,10 @@ transformer + 一些trick做分类
 
 3. [用于物联网流量生成的知识增强 GAN](https://dl.acm.org/doi/abs/10.1145/3485447.3511976)
 
+GAN+LSTM+知识图 生成 flow的时间序列
+
+4. 
+
 
 
 ## Efficient Transformers
