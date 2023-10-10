@@ -148,3 +148,12 @@ WGAN + 流特征
 ## other ref (deep learning related)
 
 1. [A review on the attention mechanism of deep learning](https://www.sciencedirect.com/science/article/pii/S092523122100477X)
+
+
+## my experiments
+
+1. [my experiments](https://github.com/shashadehuajiang/LLM_traffic_expriments)
+
+
+
+
