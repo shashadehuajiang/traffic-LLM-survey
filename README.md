@@ -147,6 +147,8 @@ WGAN + 流特征
 
 3. [扩散器：具有长序列多跳注意力扩散的高效变压器](https://ojs.aaai.org/index.php/AAAI/article/view/26502)
 
+4. [FlashAttention](https://blog.csdn.net/fengdu78/article/details/131842840)
+
 
 ## other ref (network related)
 
