@@ -130,8 +130,13 @@ WGAN + 流特征
 
 使用格拉姆角场(GAF)将时间序列数据转换为图像
 
-13. 
+13. [Stan: Synthetic network traffic generation with generative neural models](https://link.springer.com/chapter/10.1007/978-3-030-87839-9_1)
 
+卷积神经层 (CNN) 与混合密度神经层 (MDN) 和 softmax 层集成 
+
+14. [(SIGCOMM'22) Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/abs/10.1145/3544216.3544251)
+
+合成数据包和流标头跟踪, gan +sequence +header
 
 
 ## Efficient Transformers
@@ -155,6 +160,12 @@ WGAN + 流特征
 ## my experiments
 
 1. [my experiments](https://github.com/shashadehuajiang/LLM_traffic_expriments)
+
+
+
+
+
+
 
 
 
