@@ -150,6 +150,15 @@ WGAN + 流特征
 4. [FlashAttention](https://blog.csdn.net/fengdu78/article/details/131842840)
 
 
+## 生成指标
+
+1. 包头分布 + JensenShannon Divergence（netgpt）
+
+2. [【NLP技术分享】文本生成评价指标的进化与推翻](https://zhuanlan.zhihu.com/p/150057895)
+
+3. 基于模型的相似度评价。
+
+
 ## other ref (network related)
 
 1. [Datasets are not enough: Challenges in labeling network traffic](https://www.sciencedirect.com/science/article/abs/pii/S0167404822002048)
