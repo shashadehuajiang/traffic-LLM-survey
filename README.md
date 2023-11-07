@@ -98,9 +98,9 @@ GAN+LSTM+知识图 生成 flow的时间序列
 
 GAN+flow特征的生成
 
-5. [使用 NetShare 生成实用的基于 GAN 的合成 IP 标头跟踪](https://dl.acm.org/doi/abs/10.1145/3544216.3544251)
+5. [(SIGCOMM'22) Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/abs/10.1145/3544216.3544251)
 
-GAN+ packet/flow的特征生成
+合成数据包和流标头跟踪, gan +sequence +header
 
 6. [PAC-GAN: Packet Generation of Network Traffic using Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8936224)
 
@@ -134,9 +134,6 @@ WGAN + 流特征
 
 卷积神经层 (CNN) 与混合密度神经层 (MDN) 和 softmax 层集成 
 
-14. [(SIGCOMM'22) Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/abs/10.1145/3544216.3544251)
-
-合成数据包和流标头跟踪, gan +sequence +header
 
 
 ## Efficient Transformers
