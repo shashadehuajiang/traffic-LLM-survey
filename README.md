@@ -155,6 +155,13 @@ WGAN + 流特征
 
 3. 基于模型的相似度评价。
 
+## 模型微调
+
+1. bert cls token.
+
+2. 
+
+
 
 ## other ref (network related)
 
